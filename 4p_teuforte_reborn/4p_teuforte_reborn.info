@@ -1,0 +1,184 @@
+HeaderInfo =  
+{
+	scenarioname = "(4p) Teuforte",
+	scenariodescription = "Remake of Trebor's CoH classic.",
+	maxplayers = 4,
+	scenario_battlefront = 1,
+	scenarioabbrname = "",
+	savedname = "",
+	version = 2008,
+	mapsize =  
+	{
+		448,
+		448,
+	},
+	music = "",
+	point_positions =  
+	{
+		 
+		{
+			y = 170.99188,
+			x = 169.97470,
+			owner_id = 1000,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 130,
+			x = 170,
+			owner_id = 1001,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -169,
+			x = -169,
+			owner_id = 1002,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = -129,
+			x = -169,
+			owner_id = 1003,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
+			y = 175.68173,
+			x = -16.22917,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -142.38588,
+			x = 126.63539,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = -9.99169,
+			x = 2.34170,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = 174.75603,
+			x = -131.39323,
+			owner_id = 0,
+			ebp_name = "victory_point",
+		},
+		 
+		{
+			y = 176,
+			x = -172,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 173.89824,
+			x = -84.04256,
+			owner_id = 0,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = -172.17215,
+			x = 103.25687,
+			owner_id = 0,
+			ebp_name = "territory_fuel_point_mp",
+		},
+		 
+		{
+			y = -172.62538,
+			x = 181.47379,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 31.39048,
+			x = -64.33147,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 104,
+			x = -109,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = 15.55849,
+			x = 174.88533,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 80,
+			x = 80,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -151.54810,
+			x = -14.94734,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -80.88488,
+			x = -81.28432,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -90,
+			x = 32,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -1,
+			x = -178,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -11.76497,
+			x = 63.36630,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = -80,
+			x = 95,
+			owner_id = 0,
+			ebp_name = "territory_munitions_point_mp",
+		},
+		 
+		{
+			y = 111.52573,
+			x = -38.47551,
+			owner_id = 0,
+			ebp_name = "territory_point_mp",
+		},
+	},
+	default_skins =  
+	{
+	},
+}
+
