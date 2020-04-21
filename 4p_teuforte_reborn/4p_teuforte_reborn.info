@@ -1,9 +1,9 @@
 HeaderInfo =  
 {
-	scenarioname = "(4p) Teuforte",
-	scenariodescription = "Remake of Trebor's CoH classic.",
+	scenarioname = "(4) Teu Forte",
+	scenariodescription = "Remake of Trebor's vCoH classic. Somewhere near the river Sienne lies the quaint French village of Teu Forte, yet untouched by the atrocities of Wehrmacht occupation. ",
 	maxplayers = 4,
-	scenario_battlefront = 1,
+	scenario_battlefront = 3,
 	scenarioabbrname = "",
 	savedname = "",
 	version = 2008,
@@ -17,16 +17,9 @@ HeaderInfo =
 	{
 		 
 		{
-			y = 170.99188,
-			x = 169.97470,
+			y = 171.22519,
+			x = 170.30411,
 			owner_id = 1000,
-			ebp_name = "starting_position_shared_territory",
-		},
-		 
-		{
-			y = 130,
-			x = 170,
-			owner_id = 1001,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
@@ -59,8 +52,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -9.99169,
-			x = 2.34170,
+			y = -9.50450,
+			x = 2.24891,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
@@ -108,8 +101,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 104,
-			x = -109,
+			y = 109.63052,
+			x = -114.08022,
 			owner_id = 0,
 			ebp_name = "territory_munitions_point_mp",
 		},
@@ -175,6 +168,13 @@ HeaderInfo =
 			x = -38.47551,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
+		},
+		 
+		{
+			y = 129.94937,
+			x = 170.22339,
+			owner_id = 1001,
+			ebp_name = "starting_position_shared_territory",
 		},
 	},
 	default_skins =  
