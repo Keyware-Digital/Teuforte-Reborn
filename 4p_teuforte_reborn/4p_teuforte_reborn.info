@@ -45,8 +45,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -142.38588,
-			x = 126.63539,
+			y = -143,
+			x = 126,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
