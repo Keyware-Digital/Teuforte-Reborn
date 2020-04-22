@@ -1,7 +1,7 @@
 HeaderInfo =  
 {
 	scenarioname = "(4) Teu Forte",
-	scenariodescription = "Remake of Trebor's vCoH classic. Somewhere near the river Sienne lies the quaint French village of Teu Forte, yet untouched by the atrocities of Wehrmacht occupation. ",
+	scenariodescription = "Remake of Trebor's vCoH classic. Situated on an offshoot of the river Sienne lies the quaint French town of Teu Forte, yet untouched by Wehrmacht occupation. As Axis forces arrive, they discover the citizens of Teu Forte have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time. Nearby Allied forces have been made aware of Axis presence by French resistance and proceed to advance on the town, setting up camp in the outskirts.",
 	maxplayers = 4,
 	scenario_battlefront = 3,
 	scenarioabbrname = "",
