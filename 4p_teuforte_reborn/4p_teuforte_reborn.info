@@ -1,7 +1,7 @@
 HeaderInfo =  
 {
 	scenarioname = "(4 - 6) Teu Forte",
-	scenariodescription = scenariodescription = "Community map created by Trebor & Reuben, based on Trebor's vCoH classic.\n\nSituated on an offshoot of the river Siene lies the quaint French town of Teu Forte, yet untouched by Wehrmacht occupation.\n\nAs Axis forces arrive, they discover the citizens of Teu Forte have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time. \n\nNearby Allied forces have been made aware of Axis presence by French resistance and proceed to advance on the town, setting up camp in the outskirts to prepare an offensive.",
+	scenariodescription = "Community map created by Trebor & Reuben, based on Trebor's vCoH classic.\n\nSituated on an offshoot of the river Siene lies the quaint French town of Teu Forte, yet untouched by Wehrmacht occupation.\n\nAs Axis forces arrive, they discover the citizens of Teu Forte have hastily evacuated leaving behind an eerie ghost town seemingly frozen in time. \n\nNearby Allied forces have been made aware of Axis presence by French resistance and proceed to advance on the town, setting up camp in the outskirts to prepare an offensive.",
 	maxplayers = 6,
 	scenario_battlefront = 2,
 	scenarioabbrname = "",
