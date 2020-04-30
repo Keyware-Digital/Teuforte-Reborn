@@ -17,8 +17,8 @@ HeaderInfo =
 	{
 		 
 		{
-			y = 168,
-			x = 170,
+			y = 167,
+			x = 169,
 			owner_id = 1000,
 			ebp_name = "starting_position_shared_territory",
 		},
@@ -178,15 +178,15 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 168,
-			x = 129,
+			y = 167,
+			x = 128,
 			owner_id = 1002,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
-			y = 127,
-			x = 170,
+			y = 126,
+			x = 169,
 			owner_id = 1001,
 			ebp_name = "starting_position_shared_territory",
 		},
