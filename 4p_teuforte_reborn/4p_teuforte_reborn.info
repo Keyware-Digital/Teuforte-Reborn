@@ -186,7 +186,7 @@ HeaderInfo =
 		 
 		{
 			y = 126,
-			x = 169,
+			x = 168,
 			owner_id = 1001,
 			ebp_name = "starting_position_shared_territory",
 		},
