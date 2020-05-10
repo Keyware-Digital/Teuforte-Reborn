@@ -38,8 +38,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 175.68173,
-			x = -16.22917,
+			y = 144,
+			x = 15,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -59,8 +59,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 174.75603,
-			x = -131.39323,
+			y = 140.93340,
+			x = -103.33480,
 			owner_id = 0,
 			ebp_name = "victory_point",
 		},
@@ -108,8 +108,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 15.55849,
-			x = 174.88533,
+			y = -0.21256,
+			x = 173.75987,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -136,15 +136,15 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -90,
-			x = 32,
+			y = -91.64005,
+			x = 21.84779,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
 		 
 		{
-			y = -1,
-			x = -178,
+			y = -0.61769,
+			x = -178.00606,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -157,8 +157,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -80,
-			x = 95,
+			y = -78,
+			x = 96,
 			owner_id = 0,
 			ebp_name = "territory_munitions_point_mp",
 		},
