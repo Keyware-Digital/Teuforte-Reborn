@@ -19,21 +19,21 @@ HeaderInfo =
 		{
 			y = 167,
 			x = 169,
-			owner_id = 1000,
+			owner_id = 1004,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
 			y = -166,
 			x = -170,
-			owner_id = 1003,
+			owner_id = 1001,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
 			y = -125,
 			x = -170,
-			owner_id = 1004,
+			owner_id = 1000,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
@@ -166,7 +166,7 @@ HeaderInfo =
 		{
 			y = -165,
 			x = -129,
-			owner_id = 1005,
+			owner_id = 1002,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
@@ -180,14 +180,14 @@ HeaderInfo =
 		{
 			y = 166,
 			x = 127,
-			owner_id = 1002,
+			owner_id = 1003,
 			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
 			y = 125,
 			x = 168,
-			owner_id = 1001,
+			owner_id = 1005,
 			ebp_name = "starting_position_shared_territory",
 		},
 	},
