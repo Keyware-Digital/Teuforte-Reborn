@@ -66,6 +66,13 @@ HeaderInfo =
 		},
 		 
 		{
+			y = 166,
+			x = 127,
+			owner_id = 1003,
+			ebp_name = "starting_position_shared_territory",
+		},
+		 
+		{
 			y = 175.48717,
 			x = -172.04208,
 			owner_id = 0,
@@ -175,13 +182,6 @@ HeaderInfo =
 			x = -38.47551,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
-		},
-		 
-		{
-			y = 166,
-			x = 127,
-			owner_id = 1003,
-			ebp_name = "starting_position_shared_territory",
 		},
 		 
 		{
