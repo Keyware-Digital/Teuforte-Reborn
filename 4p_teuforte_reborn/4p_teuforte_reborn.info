@@ -73,8 +73,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = 175.48717,
-			x = -172.04208,
+			y = 130,
+			x = -176,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
@@ -94,8 +94,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -171.15848,
-			x = 180.54344,
+			y = -120,
+			x = 176,
 			owner_id = 0,
 			ebp_name = "territory_point_mp",
 		},
