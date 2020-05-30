@@ -87,8 +87,8 @@ HeaderInfo =
 		},
 		 
 		{
-			y = -172.17215,
-			x = 103.25687,
+			y = -171.45024,
+			x = 101.97301,
 			owner_id = 0,
 			ebp_name = "territory_fuel_point_mp",
 		},
